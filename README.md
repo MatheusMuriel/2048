@@ -5,6 +5,6 @@ Biblioteca utilizada: Arcade
 
 ## Run
 ```bash
-pip -r install requirements.txt
+pip install -r requirements.txt
 python main.py
 ```
