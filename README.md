@@ -1,2 +1,10 @@
 # 2048
-Minha versão do jogo 2048 feito em python
+Minha versão em Python do jogo 2048.
+
+Biblioteca utilizada: Arcade
+
+## Run
+```bash
+pip -r install requirements.txt
+python main.py
+```
